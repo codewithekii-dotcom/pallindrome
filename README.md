@@ -12,11 +12,10 @@ A simple Python program to check if a word or phrase reads the same forwards and
 ```bash
 python palindrome.py
 ```
-# What I Learned
-. input() for user input
-. lower() for case-insensitive comparison
-. String slicing [::-1] to reverse a string
-.replace() to remove spaces
-. if/else for decision making
-. String comparison with ==
-
+## What I Learned
+- `input()` for user input
+- `.lower()` for case-insensitive comparison
+- String slicing `[::-1]` to reverse a string
+- `.replace()` to remove spaces
+- `if/else` for decision making
+- String comparison with `==`
